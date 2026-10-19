@@ -1,8 +1,6 @@
-node_modules/
-.next/
-.env
-.env.*
+node_modules
+.next
+.env*
 !.env.example
-.vercel/
-coverage/
-*.log
+coverage
+*.tsbuildinfo
